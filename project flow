@@ -1,0 +1,19 @@
+name
+nrc
+email
+password
+phoneNumber
+encryption_key
+recovery_key
+account type
+account_status
+account_level
+minimum_opening_deposit
+currency
+current_amount
+loanStatus
+monthly_income
+loan_amount
+loan_rate
+address
+TransRC
